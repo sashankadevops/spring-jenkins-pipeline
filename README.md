@@ -24,3 +24,5 @@ Enjoy it :)
 ### Relevant articles
 
 - [Intro to Jenkins 2 and the Power of Pipelines](http://www.baeldung.com/jenkins-pipelines)
+
+http://www.baeldung.com/jenkins-pipelines
